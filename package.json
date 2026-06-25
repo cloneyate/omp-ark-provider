@@ -1,0 +1,13 @@
+{
+  "name": "omp-ark-provider",
+  "version": "1.0.0",
+  "description": "Ark (ByteDance Volcengine) coding plan provider for omp — interactive base URL and API key configuration",
+  "type": "module",
+  "main": "extension.ts",
+  "omp": {
+    "extensions": ["./extension.ts"]
+  },
+  "keywords": ["omp", "provider", "ark", "volcengine", "doubao", "deepseek"],
+  "author": "zhouhongye",
+  "license": "MIT"
+}
